@@ -18,7 +18,7 @@
 </div><br/>
 "Querer não é poder, mas estudar é fazer acontecer"
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Pedro-Gonsalo/Pedro-Gonsalo/blob/output/github-contribution-grid-snake.svg)
 
 ## Contato
 <div>
