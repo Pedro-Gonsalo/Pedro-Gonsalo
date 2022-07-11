@@ -1,5 +1,8 @@
 # Olá, eu sou o Pedro Gonçalo 👋
 
+📚 Atualmente começando a estudar React JS.</br>
+🛠️ Em buscar de me tornar um desenvolvedor Front-End.
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Gonsalo&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Gonsalo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
