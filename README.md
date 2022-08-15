@@ -16,7 +16,7 @@
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div><br/>
-"Querer não é poder, mas estudar é fazer acontecer"
+"Se você quer chegar onde a maioria não chega, faça o que a maioria não faz." Bill Gates
 
 ![Snake animation](https://github.com/Pedro-Gonsalo/Pedro-Gonsalo/blob/output/github-contribution-grid-snake.svg)
 
