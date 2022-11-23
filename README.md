@@ -1,7 +1,7 @@
 # Olá, eu sou o Pedro Gonçalo 👋
 
 💻 Atualmente desenvolvendo meus primeiros projetos</br>
-🛠️ Em busca de me tornar um desenvolvedor Front-End.
+🛠️ Em busca de me tornar um desenvolvedor Front-End
 
 <div align="center">
   <a href="https://github.com/Pedro-Gonsalo">
