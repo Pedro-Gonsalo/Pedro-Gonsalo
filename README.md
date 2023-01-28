@@ -1,6 +1,6 @@
 # Olá, eu sou o Pedro Gonçalo 👋
 
-💻 Atualmente desenvolvendo meus primeiros projetos</br>
+💻 Atualmente estudando Delphi</br>
 🛠️ Em busca de me tornar um desenvolvedor Front-End
 
 <div align="center">
@@ -10,7 +10,6 @@
 </div>
 
 ## Tecnologias que uso no meu dia a dia
-
 <div style="display:inline_block"><br/>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
