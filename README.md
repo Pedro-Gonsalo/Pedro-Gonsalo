@@ -19,11 +19,12 @@
   <img height="50em" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
   <img height="50em" alt="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />     
 </div><br/>
+  
 "Se você quer chegar onde a maioria não chega, faça o que a maioria não faz." Bill Gates          
 
 ![Snake animation](https://github.com/Pedro-Gonsalo/Pedro-Gonsalo/blob/output/github-contribution-grid-snake.svg)
 
 ## Contato
 <div>
-  <a href="https://www.linkedin.com/in/pedro-henrique-gonçalo-de-oliveira-315a3b235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/in/pedro-henrique-gonçalo-de-oliveira-315a3b235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>
