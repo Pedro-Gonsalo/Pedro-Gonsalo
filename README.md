@@ -1,6 +1,6 @@
 # Olá, eu sou o Pedro Gonçalo 👋
 
-💻 Atualmente estudando Pyton</br>
+💻 Atualmente estudando Python</br>
 🛠️ Desenvolvedor Fullstack
 
 <!-- <div align="center">
