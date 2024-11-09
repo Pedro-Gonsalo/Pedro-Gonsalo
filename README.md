@@ -1,7 +1,7 @@
 # Olá, eu sou o Pedro Gonçalo 👋
 
-💻 Atualmente estudando Delphi</br>
-🛠️ Em busca de me tornar um desenvolvedor Front-End
+💻 Atualmente estudando Pyton</br>
+🛠️ Desenvolvedor Fullstack
 
 <!-- <div align="center">
   <a href="https://github.com/Pedro-Gonsalo">
