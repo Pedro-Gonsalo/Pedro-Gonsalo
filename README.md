@@ -21,8 +21,6 @@
 </div>
 
 ---
-
-## 🌟 Minha Filosofia
 <div align="center">
   <blockquote>
     <em>"Se você quer chegar onde a maioria não chega, faça o que a maioria não faz."</em>  
