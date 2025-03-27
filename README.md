@@ -1,30 +1,40 @@
 # Olá, eu sou o Pedro Gonçalo 👋
 
-💻 Atualmente estudando Python</br>
-🛠️ Desenvolvedor Fullstack
+💻 **Desenvolvedor Fullstack**  
+🐍 **Atualmente aprofundando meus conhecimentos em Python**
 
-<!-- <div align="center">
-  <a href="https://github.com/Pedro-Gonsalo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro-Gonsalo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Gonsalo&layout=compact&langs_count=7&theme=tokyonight"/>
-</div> -->
+## 🚀 Tecnologias que utilizo no dia a dia
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img alt="HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML">
+  <img alt="CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS">
+  <img alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript">
+  <img alt="Vue.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js">
+  <img alt="Nuxt.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt.js">
+  <img alt="TypeScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript">
+  <img alt="Vuetify" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" title="Vuetify">
+  <img alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python">
+  <img alt="PostgreSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL">
+  <img alt="SQL Server" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server">
+  <img alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git">
+  <img alt="Bootstrap" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap">
+  <img alt="jQuery" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" title="jQuery">
+</div>
 
-## Tecnologias que uso no meu dia a dia
-<div style="display:inline_block">
-  <img height="50em" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="50em" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img height="50em" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="50em" alt="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
-  <img height="50em" alt="Jquery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
-  <img height="50em" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-  <img height="50em" alt="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />     
-</div><br/>
-  
-"Se você quer chegar onde a maioria não chega, faça o que a maioria não faz." Bill Gates
+---
 
-<!-- 
-![Snake animation](https://github.com/Pedro-Gonsalo/Pedro-Gonsalo/blob/output/github-contribution-grid-snake.svg)
--->
+## 🌟 Minha Filosofia
+<div align="center">
+  <blockquote>
+    <em>"Se você quer chegar onde a maioria não chega, faça o que a maioria não faz."</em>  
+    <br>— Bill Gates
+  </blockquote>
+</div>
 
-## Contato
-<a href="https://www.linkedin.com/in/pedro-gonçalo-315a3b235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+---
+
+## 🌐 Vamos Conectar?
+<div>
+  <a href="https://www.linkedin.com/in/pedro-gonçalo-315a3b235/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
